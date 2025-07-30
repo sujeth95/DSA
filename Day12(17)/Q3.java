@@ -1,5 +1,5 @@
 public class Q3 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {  //TC -> O(X*N)
         String fruits[] = { "apple", "mango", "banana" };
 
         String largest = fruits[0];
